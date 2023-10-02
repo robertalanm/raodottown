@@ -25,7 +25,6 @@ export default function Home() {
       <code id="codeBlock" class="block">
         btcli root delegate --delegate_ss58key 5D7thQ8XUCLMm58BxF75PTvMsyGbLC93T61RACqTmKLt49A7 --all
 
-
       </code>
     </pre>
   </div>
